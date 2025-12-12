@@ -1,3 +1,8 @@
+input.txt
+input_test.txt
+input_p[123].txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
